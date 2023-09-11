@@ -10,7 +10,9 @@
    
 ### Configurações iniciais 
 - Após clonar o repositório para sua máquina vamos para as configurações iniciais do projeto.
+
   1- Configurações iniciais de criação do servidor:
+
     * Criação do servidor:
       - Utilizaremos o comando inicial > `npm init -y`, o "-y" é o comando para responder com "yes" todos os questionários prévios para a inicialização.
     * Instalando pacotes necessários:
