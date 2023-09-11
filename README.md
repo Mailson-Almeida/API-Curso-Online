@@ -24,7 +24,20 @@
     * Abaixo imagens de alguns teste realizado com a IDE:
    
       
-        
+* GET de Aluno pelo identificador    
   
+  ![TesteCase2](https://images2.imgbox.com/42/e9/V8bOHcQY_o.png)
+
+* GET de Lista de Alunos
+
+  ![TesteCase2](https://images2.imgbox.com/af/59/YFU0eHBN_o.png)
+
+* POST de Aluno pelo identificador
+
+  ![TesteCase3](https://images2.imgbox.com/bd/7e/4xM5vcvZ_o.png)
+
+* DELETE de Aluno pelo identificador  
+
+  ![TesteCase3](https://images2.imgbox.com/f8/e0/hg8p5reM_o.png)
 
     
